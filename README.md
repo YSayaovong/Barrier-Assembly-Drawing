@@ -11,7 +11,7 @@ The drawing includes:
 
 ## Files
 
-- `Barrier Assy Drawing.png` - The image file containing the mechanical drawing.
+- `Barrier Assy Drawing.pdf` - The image file containing the mechanical drawing.
 
 
 ## How to Use
